@@ -1,0 +1,4 @@
+.sconsign.dblite
+hardware.out
+vga_tb.out
+vga_tb.vcd
